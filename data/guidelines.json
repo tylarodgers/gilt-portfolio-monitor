@@ -1,0 +1,8 @@
+{
+  "cash_gbp": 3500000,
+  "duration_tolerance_years": 0.5,
+  "max_single_bond_pct": 25,
+  "min_cash_pct": 1,
+  "max_cash_pct": 5,
+  "bucket_tolerance_pct": 10
+}
